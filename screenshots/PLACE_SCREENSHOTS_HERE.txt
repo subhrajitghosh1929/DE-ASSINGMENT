@@ -1,0 +1,8 @@
+# Add your Logisim screenshots here after opening the .circ file.
+# Suggested filenames:
+#   01_full_circuit.png
+#   02_minterm0.png
+#   03_minterm7.png
+#   04_minterm11.png
+#   05_minterm14.png
+#   06_kmap.png
